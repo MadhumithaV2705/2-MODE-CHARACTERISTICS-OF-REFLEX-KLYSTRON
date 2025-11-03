@@ -20,7 +20,7 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 
 <img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
 
-**Theory**
+**Theory:**
 
 The Reflex Klystron is a microwave tube used as a microwave source in the lab. It makes use of velocity modulation to transform a continuous electron beam into microwave power. Its oscillation frequency can be varied over a wide band and it can be pulse and frequency modulated.
 Electrons emitted from the cathode are accelerated by and pass through the positive resonator grid towards the reflector. The reflector is at a negative voltage with respect to cathode, and consequently it retard and finally reflects (reflex klystron) the electrons, which then turn back through the resonator grids: In case the klystron starts to oscillate, a hi-field exists between the resonator grids. The electron travelling through the grid will be either accelerated or retarded as the voltage changes in amplitude. Accelerated electrons leave the grid at an increased velocity and retarded electrons leave at a reduced velocity. Because of the difference in velocity the electrons leaving the grids will need different time to return (i.e., have different transit times).As a result of returning electron group together in bunches. This variation in velocity of the electrons is called velocity modulation.
@@ -74,8 +74,8 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-    **Result:**
-   	Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
+**Result:**
+Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
 			
 			
 			
