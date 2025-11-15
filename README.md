@@ -77,7 +77,7 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-    **Result:**
+**Result:**
    	
 The mode characteristics of the reflex klystron were successfully observed, showing how frequency and output power vary with repeller voltage. The experiment confirms the stable operating modes and helps understand tuning behavior of the klystron.
    	
